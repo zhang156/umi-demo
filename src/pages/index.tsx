@@ -15,7 +15,7 @@ export default () => {
 
   let events = {
     created: (instance: any) => {
-
+      // third commit
       mapEl = instance;
       console.log(mapEl)
       window.AMap.plugin(['AMap.Geocoder', 'AMap.Driving'], () => {
