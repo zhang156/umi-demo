@@ -9,6 +9,9 @@ export default () => {
 
   // record6
 
+
+  // error
+
   let setFitView = () => {
     if (mapEl) {
       mapEl.setFitView(null, false, [50, 50, 50, 50]);
