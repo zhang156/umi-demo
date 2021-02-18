@@ -7,13 +7,15 @@ export default () => {
   let mapEl = null
   let geocoder = null
 
-  // record 1
+  // record 1'
 
   let setFitView = () => {
     if (mapEl) {
       mapEl.setFitView(null, false, [50, 50, 50, 50]);
     }
   }
+
+  // record 2
 
   let events = {
     created: (instance: any) => {
