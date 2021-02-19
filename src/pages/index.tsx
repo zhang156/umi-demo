@@ -7,7 +7,7 @@ export default () => {
   let mapEl = null
   let geocoder = null
 
-  // init1
+  // init2
 
   let setFitView = () => {
     if (mapEl) {
