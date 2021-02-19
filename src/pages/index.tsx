@@ -10,6 +10,7 @@ export default () => {
   // init
   // init2
   // init3
+  // init4
 
   let setFitView = () => {
     if (mapEl) {
