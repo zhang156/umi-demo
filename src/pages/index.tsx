@@ -18,7 +18,7 @@ export default () => {
   let events = {
     created: (instance: any) => {
       mapEl = instance;
-      // 注释
+      // 注释2
       console.log(mapEl)
       window.AMap.plugin(['AMap.Geocoder', 'AMap.Driving'], () => {
         let driving = new AMap.Driving({
