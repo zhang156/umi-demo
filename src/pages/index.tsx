@@ -10,6 +10,7 @@ export default () => {
   // issue2 start
   // issue2 doing1
   // issue2 doing2
+  // issue2 doing3
   // issue2 end
 
   let setFitView = () => {
