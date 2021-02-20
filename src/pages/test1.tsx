@@ -12,6 +12,7 @@ const Component: React.FC<Props> = props => {
   // 3
 
   return (
+    // bug
     <div>
       <input type="text"/>
     </div>
