@@ -16,6 +16,7 @@ const Component: React.FC<Props> = props => {
     <div>
       <input type="text"/>
     </div>
+    // 4
   )
 }
 
