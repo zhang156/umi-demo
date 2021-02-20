@@ -8,7 +8,7 @@ export default () => {
   let geocoder = null
 
   // issue2 start
-
+  // ...
   // issue2 end
 
   let setFitView = () => {
