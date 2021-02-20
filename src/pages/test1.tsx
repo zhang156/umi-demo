@@ -7,7 +7,7 @@ interface Props {
 const Component: React.FC<Props> = props => {
   const {  } = props;
 
-  // master test 1
+  // master test
 
   return (
     <div>
