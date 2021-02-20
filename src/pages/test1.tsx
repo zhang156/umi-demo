@@ -11,6 +11,7 @@ const Component: React.FC<Props> = props => {
   // 2
   // bug
   // 3
+  // 4
 
   return (
     <div>
