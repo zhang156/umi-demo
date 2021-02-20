@@ -9,6 +9,8 @@ const Component: React.FC<Props> = props => {
 
   // test1
 
+  // test2
+
   return (
     <div>
       <input type="text"/>
