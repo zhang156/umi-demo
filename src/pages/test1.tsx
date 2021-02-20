@@ -10,6 +10,7 @@ const Component: React.FC<Props> = props => {
   // test1
 
   // test2
+  // master
 
   return (
     <div>
