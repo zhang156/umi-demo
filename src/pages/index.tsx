@@ -9,6 +9,8 @@ export default () => {
 
   // issue2 start
 
+  // issue2 end
+
   let setFitView = () => {
     if (mapEl) {
       mapEl.setFitView(null, false, [50, 50, 50, 50]);
