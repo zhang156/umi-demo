@@ -8,7 +8,6 @@ const Component: React.FC<Props> = props => {
   const {  } = props;
 
   // master test
-  // issue test
 
   return (
     <div>
