@@ -9,6 +9,7 @@ const Component: React.FC<Props> = props => {
 
   // 1
   // 2
+  // 3
 
   return (
     <div>
