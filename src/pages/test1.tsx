@@ -11,6 +11,7 @@ const Component: React.FC<Props> = props => {
   // 首页
   // 设置页
   // 用户详情页
+  // 用户编辑页
 
   return (
     <div>
