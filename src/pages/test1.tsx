@@ -8,7 +8,8 @@ const Component: React.FC<Props> = props => {
   const {  } = props;
 
   // init
-  // 首页-
+  // 首页
+  // 设置页
 
   return (
     <div>
