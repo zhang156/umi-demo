@@ -10,6 +10,7 @@ const Component: React.FC<Props> = props => {
   // init
   // 首页
   // 设置页
+  // 用户详情页
 
   return (
     <div>
