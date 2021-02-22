@@ -8,6 +8,7 @@ const Component: React.FC<Props> = props => {
   const {  } = props;
 
   // init
+  // 首页
 
   return (
     <div>
